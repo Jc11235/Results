@@ -4,6 +4,4 @@ This repository contains the raw data from a run testing a conjecture for the Ke
 Please check there for more details about the program and the topic. 
 ConjectureConflicts contains data only testing the original conjecture.
 FFCCConjectureConflicts contains data testing a Fries number and a Clar number stipulation.
-KKFFConjectureConflicts contains data testing only a Fries number stipulation.
-Combined graphs contains data for combining graphs at required edges.
-Combined Temps contains text documents for the combined graphs folder. 
+KKFFConjectureConflicts contains data testing only a Fries number stipulation. 
